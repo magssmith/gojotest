@@ -1,0 +1,44 @@
+body {
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.common {
+    background-color: pink;
+    border: 2px, solid, papayawhip;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.leftmenu {
+    top: 114 px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+}
+.mainmenu {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+
+}
+.rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 39px;
+}
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+
+}

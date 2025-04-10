@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: blueviolet;
+    background-color: aliceblue;
+}
+ol {
+    color: red;
+}
+ul {
+    color: blue;
+}
+li {
+    font-weight: normal;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: red;
+}
+.listheader {
+    font-weight: bold;
+    font-style: normal;
+}
+.justify {text-align: justify;}
+
+.homeback {
+    background-image: url(../fortnite\ background.jpg);
+    background-position: top right;
+    /* background-repeat: repeat;*/
+}
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: aqua;
+
+    /*can combine border everything with just border*/
+}
+.box2 {
+
+}
+.box3 {
+
+}
